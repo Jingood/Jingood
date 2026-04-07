@@ -21,9 +21,3 @@
     <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
     <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
 
-<h2>Status</h2>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jingood&show_icons=true&theme=tokyonight)]
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jingood&layout=compact)
-</div>
